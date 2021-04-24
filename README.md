@@ -3,6 +3,7 @@
 #Making Operting System Linux kernal
 
 selvaraj@selvaraj-ubuntu:~/kernal$ ls                                                                                                                                   
+
 boot.asm  grub.cfg  kernel.c  linker.ld
 
 COMPILATION TIME																																																																																																																																																				
