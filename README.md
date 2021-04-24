@@ -4,7 +4,7 @@
 selvaraj@selvaraj-ubuntu:~/kernal$ ls                                                                                                                                   
 boot.asm  grub.cfg  kernel.c  linker.ld
 
-COMPILATION TIME
+COMPILATION TIME																																																																																																																																																				
 Build the boot.asm into an object file
 selvaraj@selvaraj-ubuntu:~/kernal$ nasm -f elf32 boot.asm -o boot.o
 
@@ -57,3 +57,4 @@ boot.asm  boot.o  grub.cfg  iso  kernel  kernel.c  kernel.o  linker.ld  selvaraj
 
 Find!
 Next text your Linux kernal in Virtual box or any suitable application
+
