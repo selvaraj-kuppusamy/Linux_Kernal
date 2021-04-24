@@ -1,11 +1,11 @@
 # Linux_Kernal
-Making Operting System Linux kernal
+#Making Operting System Linux kernal
 
 selvaraj@selvaraj-ubuntu:~/kernal$ ls                                                                                                                                   
 boot.asm  grub.cfg  kernel.c  linker.ld
 
-COMPILATION TIME
-Build the boot.asm into an object file
+#COMPILATION TIME
+#Build the boot.asm into an object file
 selvaraj@selvaraj-ubuntu:~/kernal$ nasm -f elf32 boot.asm -o boot.o
 
 Build the kernal.c into an object file
