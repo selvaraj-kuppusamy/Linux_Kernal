@@ -1,12 +1,13 @@
 # Linux_Kernal
 
-#Making Operting System Linux kernal
+### Making Operting System Linux kernal
 
 selvaraj@selvaraj-ubuntu:~/kernal$ ls                                                                                                                                   
 
 boot.asm  grub.cfg  kernel.c  linker.ld
 
-COMPILATION TIME																																																																																																																																																				
+
+### COMPILATION TIME							
 
 Build the boot.asm into an object file
 
@@ -28,7 +29,8 @@ boot.asm  boot.o  grub.cfg  kernel  kernel.c  kernel.o  linker.ld
 
 Complied file your kernal and Boot so on.
 
- BUILDING BOOTABLE ISO IMAGE
+
+###  BUILDING BOOTABLE ISO IMAGE
 
 Create a Stage environment on following Envirnoment
 
